@@ -1,4 +1,4 @@
-# PCIe Gen3 Endpoint Verification Environment (UVM)
+# PCIe Endpoint Verification Environment (UVM)
 
 This repository contains a complete **Universal Verification Methodology (UVM)** environment for verifying a PCIe Transaction Layer Endpoint. The environment uses constrained-random stimulus to verify Memory Write (MEM_WR) and Memory Read (MEM_RD) operations against a SystemVerilog RTL model.
 
